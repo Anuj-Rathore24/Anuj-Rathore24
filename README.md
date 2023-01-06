@@ -16,7 +16,7 @@
 
 - 🔭 I’m am pursuing my CS degree from MIT WPU
   
-- 🌱 I’m currently learning DSA, GraphQL, BigData, Cloud Computing
+- 🌱 I’m currently learning DSA, MongoDb Realm and block chain!
   
 - 💬 I am mostly interseted in backend developing of webapps, but also enjoy developing interactive frontend designs. 
   
