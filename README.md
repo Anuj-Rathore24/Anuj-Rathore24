@@ -4,10 +4,9 @@
 </p>
 
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=Anuj-Rathore24.Anuj-Rathore24)
 [![Github](https://img.shields.io/github/followers/Anuj-Rathore24?label=Follow&style=social)](https://github.com/Anuj-Rathore24)
 
-<div size='20px'> Hi! My name is Anuj. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'> Hi! My name is Anuj, and I am just another developer finding his place in this world of 1s and 0s. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
@@ -16,9 +15,9 @@
 
 - 🔭 I’m am pursuing my CS degree from MIT WPU
   
-- 🌱 I’m currently learning DSA, MongoDb Realm and block chain!
+- 🌱 I’m currently learning WordPress(Themes and Plugin development) and React Redux.
   
-- 💬 I am mostly interseted in backend developing of webapps, but also enjoy developing interactive frontend designs. 
+- 💬 I am mostly interseted in Developing backend for webapps, but also enjoy developing interactive frontend designs. 
   
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
